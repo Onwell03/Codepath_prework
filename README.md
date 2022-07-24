@@ -1,5 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
-`Hello World App
+## HELLO WORLD APP
 
 ### App Description
 `TODO://` Hello World App that changes the color of the text when a user clicks on the button.
