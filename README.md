@@ -1,11 +1,11 @@
 ## HELLO WORLD APP
 
 ### App Description
-`TODO://` Hello World App that changes the color of the text when a user clicks on the button.
+`TODO://` Hello World App that changes the color of the text when a user clicks on the button and changes the background color when the user clicks on the button.
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/J1lj7uWANc.gif" width=200><br>
+<img src="http://g.recordit.co/EQJAFnBncs.gif" width=200><br>
 
 `TODO://`
 
