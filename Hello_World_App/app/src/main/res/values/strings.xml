@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Hello_World_App</string>
+    <string name="input_view">Type_your_name</string>
+    <string name="Background_color">Change Background_color</string>
+    <string name="Change_the_color">Change color</string>
+    <string name="First_message">Hello from Onwell</string>
+    <string name="Changing_text">Change text</string>
+    <string name="Hint_text">Name</string>
 </resources>

@@ -1,11 +1,11 @@
 ## HELLO WORLD APP
 
 ### App Description
-`TODO://` Hello World App that changes the color of the text when a user clicks on the button and changes the background color when the user clicks on the button.
+`TODO://` Hello World App that takes in a message and changes the display message and also changes the color text and background color.
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/EQJAFnBncs.gif" width=200><br>
+<img src="http://g.recordit.co/SeEurLwN33.gif" width=200><br>
 
 `TODO://`
 
@@ -16,9 +16,9 @@
 
 ### Optional User Stories
 - [*] 1. User can tap a button to change the color of the background view.
-- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
-- [ ] 3. User can tap on the background view to reset all views to default settings.
-- [ ] 4. User can update the label text with custom text entered into the text field.
+- [*] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [*] 3. User can tap on the background view to reset all views to default settings.
+- [*] 4. User can update the label text with custom text entered into the text field.
    - [ ] a. User can enter text into a text field using the keyboard.
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [ ] c. If the text field is empty, update label with default text string.
